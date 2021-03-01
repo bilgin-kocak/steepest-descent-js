@@ -1,0 +1,16 @@
+{
+  "name": "optimization_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "mathjs": "^9.2.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilgin Koçak",
+  "license": "ISC"
+}
